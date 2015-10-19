@@ -1,0 +1,13 @@
+{
+"name": "mithrilsql",
+"main": "mithrilsql.js",
+"version": "0.0.1",
+"description": "Stronger than steel, lighter in weight, FTN messages are its great freight.",
+"keywords": ["Fidonet", "FTN", "SQL", "SQLite"],
+"author": { "name": "Mithgol the Webmaster" },
+"license": "MIT",
+"repository": {
+   "type": "git",
+   "url": "https://github.com/Mithgol/mithrilsql.git"
+}
+}
