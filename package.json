@@ -9,5 +9,8 @@
 "repository": {
    "type": "git",
    "url": "https://github.com/Mithgol/mithrilsql.git"
+},
+"scripts": {
+   "test": "jshint --verbose mithrilsql.js"
 }
 }
