@@ -20,6 +20,8 @@ You may visit https://github.com/Mithgol/mithrilsql#readme occasionally to read
 
 ## Testing MithrilSQL
 
+[![(build testing status)](https://img.shields.io/travis/Mithgol/mithrilsql/master.svg?style=plastic)](https://travis-ci.org/Mithgol/mithrilsql)
+
 It is necessary to install [JSHint](http://jshint.com/) for testing.
 
 * You may install JSHint globally (`npm install jshint -g`) or locally (`npm install jshint` in the directory of MithrilSQL).
