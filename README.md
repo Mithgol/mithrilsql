@@ -8,6 +8,10 @@ This module is written in JavaScript and requires [Node.js](http://nodejs.org
 
 This module is currently in an early phase of its development and thus does not have the desired level of feature completeness.
 
+## Database schema
+
+This module is based on the ideas proposed in the message [`area://Ru.FTN.Develop?msgid=2:5063/88+4b7e31cf`](http://ftn.su/m/RU.FTN.DEVELOP/2:5063/88+4b7e31cf) and they imply [using SQLite as an application's file format](http://sqlite.org/appfileformat.html).
+
 ## Installing MithrilSQL
 
 [![(npm package version)](https://nodei.co/npm/mithrilsql.png?downloads=true&downloadRank=true)](https://npmjs.org/package/mithrilsql)
