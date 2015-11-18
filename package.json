@@ -10,6 +10,9 @@
    "type": "git",
    "url": "https://github.com/Mithgol/mithrilsql.git"
 },
+"dependencies": {
+   "sqlite3": "~3.1.1"
+},
 "scripts": {
    "test": "jshint --verbose mithrilsql.js"
 }
