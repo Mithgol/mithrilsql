@@ -10,7 +10,7 @@ This module is currently in an early phase of its development and thus does
 
 ## Database schema
 
-This module is based on the ideas proposed in the message [`area://Ru.FTN.Develop?msgid=2:5063/88+4b7e31cf`](http://ftn.su/m/RU.FTN.DEVELOP/2:5063/88+4b7e31cf) and they imply [using SQLite as an application's file format](http://sqlite.org/appfileformat.html).
+This module is based on the ideas proposed in the message [`area://Ru.FTN.Develop?msgid=2:5063/88+4b7e31cf`](https://ipfs.io/ipfs/QmXisSfLJ9spmRkfMESKjVK8spux4N8bQqpWtcwyBkibrC) and they imply [using SQLite as an application's file format](http://sqlite.org/appfileformat.html).
 
 ## Installing MithrilSQL
 
